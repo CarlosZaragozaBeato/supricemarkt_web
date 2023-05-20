@@ -1,5 +1,5 @@
 export enum ROUTES {
-    HOME = '',
+    HOME = '/supricemarkt_web/',
     CART = '/cart',
     
 }
