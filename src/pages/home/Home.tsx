@@ -43,7 +43,7 @@ function Home() {
                         supermercado: {
                             nombre: "Día",
                             web: "https://www.dia.es/compra-online/",
-                            image: 'https://www.dia.es/compra-online/_ui/desktop/theme-dia/images/dia/svg/logo-dia-bg-red.svg',
+                            image: 'https://www.dia.es/home-front/assets/1-10-4/logo-dia.svg',
                           }
                     
                         }
